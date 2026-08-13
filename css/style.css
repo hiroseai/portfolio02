@@ -152,9 +152,8 @@ global > variables
     --color-black: #000000;
 
     /* width-content */
-    --width-l-full: 1440px;
-    --width-l-content-s: 1160px;
-    --width-l-content: 1328px;
+    --width-l-content-s: 72.5rem;
+    --width-l-content: 83rem;
 
     /* font */
     --font-family-base: "Noto Sans JP", sans-serif;
@@ -804,7 +803,7 @@ component > button
     .p-about__sub-text {
         font-size: 0.875rem;
         line-height: calc(23 / 14);
-        padding: 38px 64px 16px;
+        padding: 2.375rem 4rem 1rem;
         text-wrap: pretty;
         line-break: strict;
     }
