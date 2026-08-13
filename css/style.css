@@ -139,6 +139,11 @@ body {
     line-height: 1.5;
 }
 
+body.is-overflow {
+    overflow: hidden !important;
+    height: 100% !important;
+}
+
 /*
 global > variables
 ------------------------------*/
