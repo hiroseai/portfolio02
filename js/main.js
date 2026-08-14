@@ -17,6 +17,6 @@ $(function () {
 
     $('.js-header__hamburger-menu a[href^="#"]').on('click', function () {
         $hamburger.removeClass('js-header__hamburger-menu-active');
-        $body.removeClass('is-overflow');
+
     });
 });
