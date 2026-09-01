@@ -655,7 +655,6 @@ component > button
     -webkit-text-stroke: 0.1875rem var(--color-white);
     position: absolute;
     left: 0.125rem;
-
     bottom: -0.3125rem;
 }
 
